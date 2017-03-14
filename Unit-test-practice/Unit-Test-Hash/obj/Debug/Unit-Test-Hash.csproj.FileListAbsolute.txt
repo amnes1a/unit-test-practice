@@ -1,0 +1,9 @@
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\bin\Debug\Unit-Test-Hash.dll
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\bin\Debug\Unit-Test-Hash.pdb
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\bin\Debug\Unit-test-practice.exe
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\bin\Debug\Unit-test-practice.pdb
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\obj\Debug\Unit-Test-Hash.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\obj\Debug\Unit-Test-Hash.dll
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-Test-Hash\obj\Debug\Unit-Test-Hash.pdb

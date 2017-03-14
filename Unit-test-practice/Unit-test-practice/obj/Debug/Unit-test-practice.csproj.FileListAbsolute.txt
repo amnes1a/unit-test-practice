@@ -1,0 +1,6 @@
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-test-practice\bin\Debug\Unit-test-practice.exe.config
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-test-practice\bin\Debug\Unit-test-practice.exe
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-test-practice\bin\Debug\Unit-test-practice.pdb
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-test-practice\obj\Debug\Unit-test-practice.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-test-practice\obj\Debug\Unit-test-practice.exe
+C:\Users\Artur\Documents\GitHub\unit-test-practice\Unit-test-practice\Unit-test-practice\obj\Debug\Unit-test-practice.pdb
